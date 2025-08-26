@@ -1,5 +1,5 @@
 {
-  "latest": "1.4.4",
+  "latest": "1.4.5",
   "files": {
     "1.4.3": {
       "url": "https://github.com/visitguide-ai/visitguide-desktop-updates/releases/download/v1.4.3/staff_notifier-v1.4.3.exe",
@@ -8,6 +8,10 @@
     "1.4.4": {
       "url": "https://github.com/visitguide-ai/visitguide-desktop-updates/releases/download/v1.4.4/staff_notifier-v1.4.4.exe",
       "sha256": "3b7a40a0f1b793591e30c335bdc6afc2b882bcf6ca81339ab639d25034f846bf"
+    },
+    "1.4.5": {
+      "url": "https://github.com/visitguide-ai/visitguide-desktop-updates/releases/download/v1.4.5/staff_notifier-v1.4.5.exe",
+      "sha256": "7b3555507a2185fc053f9df1f3032121f4024ee37a1d31007a5c0e65afc13636"
     }
   }
 }
