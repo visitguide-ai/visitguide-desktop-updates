@@ -1,0 +1,9 @@
+{
+  "latest": "1.4.3",
+  "files": {
+    "1.4.3": {
+      "url": "https://github.com/visitguide-ai/visitguide-desktop-updates/releases/download/v1.4.3/staff_notifier-v1.4.3.exe",
+      "sha256": "pending_first_build"
+    }
+  }
+}
