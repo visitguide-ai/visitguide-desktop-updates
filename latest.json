@@ -1,5 +1,5 @@
 {
-  "latest": "1.6.13",
+  "latest": "1.6.14",
   "files": {
     "1.5.4": {
       "sha256": "310058e807cb08516d522b535698477fe5199689e6b1b78ec2a966815b1a7837",
@@ -56,6 +56,10 @@
     "1.6.13": {
       "url": "https://github.com/visitguide-ai/visitguide-desktop-updates/releases/download/v1.6.13/staff_notifier-v1.6.13.exe",
       "sha256": "6dc4665f23954b940b294267fab3575fc9a9d0a04ab530f1ca0a4733012bda95"
+    },
+    "1.6.14": {
+      "url": "https://github.com/visitguide-ai/visitguide-desktop-updates/releases/download/v1.6.14/staff_notifier-v1.6.14.exe",
+      "sha256": "ae908353b438dc6f576db4b74512f9b210a6122c664cb7fe6f5546b566302207"
     }
   }
 }
