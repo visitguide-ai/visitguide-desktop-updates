@@ -1,5 +1,5 @@
 {
-  "latest": "1.6.17",
+  "latest": "1.6.18",
   "files": {
     "1.5.4": {
       "sha256": "310058e807cb08516d522b535698477fe5199689e6b1b78ec2a966815b1a7837",
@@ -72,6 +72,10 @@
     "1.6.17": {
       "sha256": "31949f49b9149ace2999b666d49883df9a5e59d043c745416447351724bebdcc",
       "url": "https://github.com/visitguide-ai/visitguide-desktop-updates/releases/download/v1.6.17/staff_notifier-v1.6.17.exe"
+    },
+    "1.6.18": {
+      "sha256": "5f4e10d2e0a0862a46b2a5ca04adc64aae7df838fc21c0742df925ff0f2c6c77",
+      "url": "https://github.com/visitguide-ai/visitguide-desktop-updates/releases/download/v1.6.18/staff_notifier-v1.6.18.exe"
     }
   }
 }
